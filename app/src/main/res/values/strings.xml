@@ -1,3 +1,110 @@
 <resources>
     <string name="app_name">Happy Zoo</string>
+    <string name="chien">
+        Un chien est un animal qui vit avec les humains.
+        Il a quatre pattes, une queue, des oreilles et un museau.
+        Il peut avoir des poils de différentes couleurs et longueurs.
+        Il aime jouer, courir, aboyer et se faire caresser.
+        Il est fidèle, affectueux et intelligent.
+        Il faut lui donner à manger, à boire, le promener et le soigner.
+        Un chien peut être un très bon ami pour un enfant.
+    </string>
+    <string name="chat">
+        Un chat est un animal qui vit avec les humains ou dans la nature.
+        Il a quatre pattes avec des griffes, une queue, des oreilles et des yeux.
+        Il peut avoir des poils de différentes couleurs et longueurs.
+        Il aime jouer, dormir, chasser et se faire caresser.
+        Il est curieux, indépendant et malin.
+        Il faut lui donner à manger, à boire, le brosser et le soigner.
+        Un chat peut être un très bon compagnon pour un enfant.
+    </string>
+    <string name="canard">
+        Un canard est un oiseau qui vit sur l’eau ou près de l’eau.
+        Il a un bec plat, des plumes imperméables, des pattes palmées et une queue courte.
+        Il peut avoir des couleurs différentes selon son espèce.
+        Il aime nager, plonger, voler et se nourrir de plantes, d’insectes ou de poissons.
+        Il est sociable, bruyant et parfois migrateur.
+        Il faut le protéger des prédateurs comme les renards, les loups ou les hommes.
+        Un canard peut être un animal domestique ou sauvage.
+    </string>
+    <string name="cheval">
+        Un cheval est un animal qui vit avec les humains ou dans la nature.
+        Il a une tête, un cou, un dos, un ventre, quatre jambes et une queue.
+        Il a aussi des poils sur tout le corps, appelés robe, et des poils plus longs sur la tête et la queue, appelés crins.
+        Il peut avoir des couleurs différentes selon sa race, comme le noir, le blanc, le marron ou le gris.
+        Il aime manger de l’herbe, des carottes, des pommes et des céréales.
+        Il aime aussi courir, sauter, se reposer et se faire caresser.
+        Il est doux, affectueux et intelligent. Il faut le brosser, le soigner et le respecter.
+        Un cheval peut être un très bon ami pour un enfant.
+    </string>
+    <string name="elephant">
+        Un éléphant est un animal qui vit en Afrique ou en Asie.
+        Il a une peau épaisse et rugueuse, des défenses en ivoire et une longue trompe.
+        Il peut peser jusqu’à 6 tonnes et mesurer jusqu’à 4 mètres de haut.
+        Il aime manger de l’herbe, des feuilles, des fruits et des racines.
+        Il est herbivore, ce qui veut dire qu’il ne mange pas de viande.
+        Il vit en groupe avec sa famille et ses amis.
+        Il est fidèle, intelligent et protecteur.
+        Il faut le respecter et le protéger des braconniers qui veulent lui voler ses défenses.
+        Un éléphant peut être un animal sauvage ou domestique.
+    </string>
+    <string name="panda">
+        Un panda est un animal qui vit en Chine.
+        Il a une fourrure noire et blanche, des yeux ronds et une trompe.
+        Il mange surtout du bambou, mais il peut aussi manger des fruits et des insectes.
+        Il est très calme, gentil et mignon.
+        Il faut le protéger car il est en danger d’extinction.
+        Un panda peut peser jusqu’à 150 kg et mesurer jusqu’à 1,50 m.
+    </string>
+    <string name="lion">
+        Un lion est un animal qui vit en Afrique, en Inde ou au Proche-Orient.
+        Il a une fourrure de couleur sable ou ocre foncé et le mâle a une crinière brune sur la tête, le cou et la poitrine.
+        Il est très fort et il est surnommé le roi des animaux.
+        Il aime manger de la viande, comme les zèbres, les gnous ou les antilopes.
+        Il vit en groupe avec sa famille et ses amis.
+        Il communique avec des rugissements ou des grognements.
+        Il mesure environ 2 mètres de longueur (sans la queue) et il pèse entre 120 et 250 kilos.
+        Il vit environ 15 ans.
+    </string>
+    <string name="girafe">
+        Une girafe est un animal qui vit dans la savane africaine.
+        Elle a un très long cou, des pattes hautes et un pelage tacheté.
+        Elle peut mesurer jusqu’à 5,50 mètres de haut et peser jusqu’à 1,5 tonne.
+        Elle mange des feuilles d’acacia avec sa langue bleue de 40 cm.
+        Elle vit en groupe avec sa famille et ses amis.
+        Elle est douce, curieuse et élégante.
+    </string>
+    <string name="kangourou">
+        Je pense que vous voulez dire un kangourou, un animal qui vit en Australie.
+        Il a une poche sur le ventre où il garde son bébé.
+        Il est très grand et il saute très loin avec ses pattes arrière.
+        Il mange de l’herbe et des feuilles.
+        Il est gentil et sociable.
+    </string>
+    <string name="singe">
+        Un singe est un animal qui fait partie du groupe des primates, comme l’homme.
+        Il a des mains et des pieds avec des doigts, qui lui permettent de saisir des objets ou de grimper aux arbres.
+        Il a aussi un visage avec un nez, des yeux, des oreilles et une bouche.
+        Il peut avoir des poils de différentes couleurs et longueurs.
+        Il est intelligent, sociable et joueur.
+        Il mange des fruits, des feuilles, des graines et parfois de la viande.
+        Il vit en groupe avec sa famille et ses amis.
+        Il communique avec des sons, des gestes et des expressions.
+    </string>
+    <string name="dauphin">
+        Un dauphin est un mammifère marin qui a une peau lisse, un bec, un aileron et une queue.
+        Il peut nager très vite et sauter hors de l’eau.
+        Il est très intelligent et il communique avec des sifflements.
+        Il mange des poissons et des calamars.
+        Il vit en groupe avec sa famille et ses amis.
+        Il est gentil et il aime jouer avec les humains.
+    </string>
+    <string name="zebre">
+        un zèbre, un animal qui vit dans la savane africaine.
+        Il a un pelage avec des rayures noires et blanches, qui lui servent à se camoufler et à se protéger des insectes.
+        Il ressemble à un cheval, mais il est plus petit et plus rapide.
+        Il mange de l’herbe et des feuilles.
+        Il vit en groupe avec sa famille et ses amis.
+        Il est gentil et sociable.
+    </string>
 </resources>
