@@ -20,10 +20,15 @@ public class OneAnimal extends AppCompatActivity {
         animal = findViewById(R.id.animal);
         description = findViewById(R.id.description);
         video = findViewById(R.id.video);
-        //just for test
-        description.setText(getString(R.string.chat));
-        animal.setText("Chat");
-        String videoPath = "android.resource://" + getPackageName() + "/" + R.raw.chat;
+
+        Intent intent = getIntent();
+        String _title = intent.getStringExtra("title");
+        String _description = intent.getStringExtra("description");
+        int _videoId = intent.getIntExtra("video", 0);
+
+        description.setText(_description);
+        animal.setText(_title);
+        String videoPath = "android.resource://" + getPackageName() + "/" + _videoId;
         video.setVideoPath(videoPath);
         video.start();
         video.setOnCompletionListener(new MediaPlayer.OnCompletionListener() {
